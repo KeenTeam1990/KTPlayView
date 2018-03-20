@@ -88,4 +88,4 @@ _playerView.url = [NSURL URLWithString:cell.model.videoUrl];
 
 # 项目结构
 
-![项目结构图](https://github.com/KeenTeam1990/PlayView/blob/master/pic/IMG_0254.png)
+<img src="./IMG_0254.png"/>
