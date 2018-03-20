@@ -88,4 +88,4 @@ _playerView.url = [NSURL URLWithString:cell.model.videoUrl];
 
 # 项目结构
 
-<img src="./IMG_0254.PNG"/ width="375" height="667">
+<img src="./IMG_0254.PNG"/ >
